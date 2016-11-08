@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjerHtmlAcdat</string>
+    <string name="btnConHttp">Conexión HTTP</string>
+    <string name="btnConAsin">Conexión Asíncrona</string>
+</resources>

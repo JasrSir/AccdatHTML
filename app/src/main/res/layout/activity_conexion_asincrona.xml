@@ -36,7 +36,7 @@
                 android:id="@+id/radioJava"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:checked="true"
+                android:checked="false"
                 android:text="Java.net" />
 
             <RadioButton
@@ -44,6 +44,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Apache" />
+            <RadioButton
+                android:id="@+id/radioAAHC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AAHC"
+                android:checked="true" />
         </RadioGroup>
 
         <Button
